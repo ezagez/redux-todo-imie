@@ -19,6 +19,7 @@ class App extends Component {
                 <List />
                 <Form />
                 <p>Made with ❤️ by 🦆 tout doux</p>
+                <p><b> Nos vrais noms sont Gilles de la tourette et Gabriel</b> </p>
             </div>
         )
     }
